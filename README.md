@@ -7,27 +7,26 @@ Sprocket Central Pty Ltd, a medium-sized bikes & cycling accessories organizatio
 # Task 1: Data Quality Assessment
 **Assessment of data quality and completeness in preparation for analysis** <br>
 The client provided KPMG with 3 datasets: <br>
-<br>
-Customer Demographic <br>
-Customer Addresses <br>
-Transactions data in the past 3 months <br>
+1. Customer Demographic <br>
+2. Customer Addresses <br>
+3. Transactions data in the past 3 months <br>
+
 We performed the preliminary data exploration and identified ways to improve the quality of Sprocket Central Pty Ltd’s data. <br>
 <br>
 # Task 2: Data Insights <br>
-**Targeting high-value customers based on customer demographics and attributes.** <be>
-<br>
-In building this recommendation, we started with a PowerPoint presentation that outlined the approach that we will be taking. <br>
-The client has agreed on a 3-week scope with the following 3 phases as follows - Data Exploration; Model Development and Interpretation. <br>
-Prepared a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modeling, results interpretation, and reporting.<br>
+**Targeting high-value customers based on customer demographics and attributes.** <br>
+1. In building this recommendation, we started with a PowerPoint presentation that outlined the approach that we will be taking. <br>
+2. The client has agreed on a 3-week scope with the following 3 phases as follows - Data Exploration; Model Development and Interpretation. <br>
+3. Prepared a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modeling, results interpretation, and reporting.<br>
 # Task 3: Data Insights and Presentation <br>
 **Using visualizations to present insights** <be>
 <br>
 Developed a dashboard using Tableau that displays the data summary and results of the analysis. Some of the focussed business contexts when presenting findings were:<br>
 <br>
-What are the trends in the underlying data?<br>
-Which customer segment has the highest customer value?<br>
-What do you propose should be Sprocket Central Pty Ltd’s marketing and growth strategy?<br>
-What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?<br>
+1. What are the trends in the underlying data?<br>
+2. Which customer segment has the highest customer value?<br>
+3. What do you propose should be Sprocket Central Pty Ltd’s marketing and growth strategy?<br>
+4. What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?<br>
 
 # Reference
 
